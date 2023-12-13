@@ -15,7 +15,7 @@ class _expandWState extends State<expandW> {
       appBar: AppBar(
         title: TextButton(
           onPressed: (){Navigator.push(context, MaterialPageRoute(builder: (context)=> flexW()));}, 
-        child: Text("yhgasa")),
+        child: Text("ggggggg")),
       ),
       body: Column(
         children: [
